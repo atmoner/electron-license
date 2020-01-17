@@ -1,5 +1,5 @@
 {
-    "name": "electron-license",
+    "name": "npm-licensing",
     "description": "A lightweight License file generator and parser for NodeJS.",
     "version": "1.0.0",
     "license": "MIT",
@@ -17,14 +17,13 @@
     "engine": "node >= 4.3.1",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/atmoner/electron-license"
+        "url": "git+https://github.com/atmoner/npm-licensing"
     },
     "bugs": {
-        "url": "https://github.com/atmoner/electron-license/issues"
+        "url": "https://github.com/atmoner/npm-licensing/issues"
     },
-    "homepage": "https://github.com/atmoner/electron-licensee",
+    "homepage": "https://github.com/atmoner/npm-licensing",
     "dependencies": {
-        "electron-store": "^5.1.0",
         "json-stable-stringify": "1.0.1"
     }
 }
