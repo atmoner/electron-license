@@ -1,10 +1,5 @@
 /*
- * nodejs-license-file
- * https://github.com/bushev/nodejs-license-file
- *
- * Copyright (c) 2016 Yury Bushev
- * Licensed under the MIT license.
- *
+ * npm-licensing
  * Adapted by atmon3r for electron 2020
  */
 
