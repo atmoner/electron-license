@@ -1,4 +1,4 @@
-# electron-license
+# npm-licensing
 
 A lightweight License file generator and parser for ElectronJs and NodeJs.
 
