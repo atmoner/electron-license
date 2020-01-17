@@ -15,7 +15,7 @@ A lightweight License file generator and parser for ElectronJs and NodeJs.
 ## Generating license file
 
 ```javascript
-const licenseFile = require('electron-license');
+const licenseFile = require('npm-licensing');
 
 const template = [
     '====BEGIN LICENSE====',
@@ -68,7 +68,7 @@ xxxxxxxxxxxxxxxxxxxxx
 ## Parse and verify license file
 
 ```javascript
-const licenseFile = require('electron-license');
+const licenseFile = require('npm-licensing');
 
 try {
  
@@ -107,7 +107,7 @@ NOTICE: All numeric data will be converted to strings after parsing. You need to
 ## Parse and verify license string
 
 ```javascript
-const licenseFile = require('electron-license');
+const licenseFile = require('npm-licensing');
 
 try {
 
