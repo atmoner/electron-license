@@ -1,5 +1,7 @@
 # npm-licensing
 
+[![NPM version](https://img.shields.io/npm/v/npm-licensing.svg?style=flat)](https://www.npmjs.com/package/npm-licensing) [![NPM monthly downloads](https://img.shields.io/npm/dm/npm-licensing.svg?style=flat)](https://www.npmjs.com/package/npm-licensing) 
+
 A lightweight License file generator and parser for ElectronJs and NodeJs.
 
 ## Generate a keypair using OpenSSL
